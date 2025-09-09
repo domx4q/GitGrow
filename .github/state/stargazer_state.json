@@ -1,0 +1,24 @@
+{
+  "current_stargazers": [
+    "Kurama-90",
+    "domx4q"
+  ],
+  "mutual_stars": {},
+  "unstargazers": [],
+  "reciprocity": {
+    "domx4q": {
+      "starred_by": [
+        "domx4q/astroProject"
+      ],
+      "starred_back": [
+        "domx4q/astroProject"
+      ]
+    },
+    "Kurama-90": {
+      "starred_by": [
+        "domx4q/astroProject"
+      ],
+      "starred_back": []
+    }
+  }
+}
