@@ -21,21 +21,11 @@ jobs:
         with:
           ref: main
 
-      - name: Fetch state from tracker-data (if present) or init
+      - name: Fetch state from tracker-data
         run: |
-          # Branch-Ref holen (nicht zwingend als lokaler Branch auschecken)
-          git fetch origin tracker-data || true
-          mkdir -p .github/state
-
-          # Falls die Datei im Remote-Branch existiert -> herausholen
-          if git cat-file -e origin/tracker-data:.github/state/stargazer_state.json 2>/dev/null; then
-            echo "Restoring existing state from origin/tracker-data"
-            git show origin/tracker-data:.github/state/stargazer_state.json > .github/state/stargazer_state.json
-          else
-            echo "No previous state found. Initializing empty state."
-            echo '{}' > .github/state/stargazer_state.json
-          fi
-
+          git fetch origin tracker-data:tracker-data
+          mkdir -p .github/state/
+          git checkout tracker-data -- .github/state/ || true
 
       - name: Set up Python
         uses: actions/setup-python@v5
