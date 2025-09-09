@@ -38,6 +38,12 @@ jobs:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
           BOT_USER: ${{ vars.BOT_USER }}
 
+      - name: Debug git status for state file
+        run: |
+          git status --porcelain
+          git check-ignore -v .github/state/stargazer_state.json || true
+          ls -la .github/state || true
+
       - name: Commit and push updated stargazer state to tracker-data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
