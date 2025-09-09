@@ -20,55 +20,5 @@
       ],
       "starred_back": []
     }
-  },
-  "growth_starred": {
-    "favouritesir": [
-      {
-        "repo": "favouritesir/donentry",
-        "starred_at": "2025-09-09T13:44:39.344437+00:00"
-      }
-    ],
-    "tkianai": [
-      {
-        "repo": "tkianai/CommonUtils",
-        "starred_at": "2025-09-09T13:44:39.344437+00:00"
-      }
-    ],
-    "AyuHamano": [
-      {
-        "repo": "AyuHamano/ayu-portfolio",
-        "starred_at": "2025-09-09T13:44:39.344437+00:00"
-      }
-    ],
-    "Malachov": [
-      {
-        "repo": "Malachov/eelcopy",
-        "starred_at": "2025-09-09T13:44:39.344437+00:00"
-      }
-    ],
-    "kirso": [
-      {
-        "repo": "kirso/feedback-app-svelte",
-        "starred_at": "2025-09-09T13:44:39.344437+00:00"
-      }
-    ],
-    "colonelescobar": [
-      {
-        "repo": "colonelescobar/alx-pre_course",
-        "starred_at": "2025-09-09T13:44:39.344437+00:00"
-      }
-    ],
-    "demoliisher": [
-      {
-        "repo": "demoliisher/DeepSeek-R114514",
-        "starred_at": "2025-09-09T13:44:39.344437+00:00"
-      }
-    ],
-    "dchorn": [
-      {
-        "repo": "dchorn/denyschorny.com",
-        "starred_at": "2025-09-09T13:44:39.344437+00:00"
-      }
-    ]
   }
 }
