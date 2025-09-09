@@ -27,7 +27,7 @@ Thumbs.db
 .gitignore
 
 # Drafts and other files
-#.github/state/
+.github/state/
 
 # Only for local use
 scripts/unstar_nonreciprocals.py
