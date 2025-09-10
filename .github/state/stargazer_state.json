@@ -22,6 +22,67 @@
       "last_unbalanced_attempt": "2025-09-10T05:31:01.337181+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "SagarSingh2003": [
+      {
+        "repo": "SagarSingh2003/100DEVS-Journey",
+        "starred_at": "2025-09-10T08:41:40.921751+00:00"
+      }
+    ],
+    "Alexedani": [
+      {
+        "repo": "Alexedani/collab-writer-ai",
+        "starred_at": "2025-09-10T08:41:40.921751+00:00"
+      }
+    ],
+    "Renkai": [
+      {
+        "repo": "Renkai/handsonscala-exercises",
+        "starred_at": "2025-09-10T08:41:40.921751+00:00"
+      }
+    ],
+    "clarcolaco": [
+      {
+        "repo": "clarcolaco/api-flask-rest-sqlite",
+        "starred_at": "2025-09-10T08:41:40.921751+00:00"
+      }
+    ],
+    "ross2121": [
+      {
+        "repo": "ross2121/AMM",
+        "starred_at": "2025-09-10T08:41:40.921751+00:00"
+      }
+    ],
+    "MoshiulRabbi": [
+      {
+        "repo": "MoshiulRabbi/apiS",
+        "starred_at": "2025-09-10T08:41:40.921751+00:00"
+      }
+    ],
+    "nickych": [
+      {
+        "repo": "nickych/API-Weather-project",
+        "starred_at": "2025-09-10T08:41:40.921751+00:00"
+      }
+    ],
+    "wsykala": [
+      {
+        "repo": "wsykala/xapi-python",
+        "starred_at": "2025-09-10T08:41:40.921751+00:00"
+      }
+    ],
+    "bzitzow": [
+      {
+        "repo": "bzitzow/caeser-cipher",
+        "starred_at": "2025-09-10T08:41:40.921751+00:00"
+      }
+    ],
+    "Extracoffe": [
+      {
+        "repo": "Extracoffe/cloudstorage",
+        "starred_at": "2025-09-10T08:41:40.921751+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
