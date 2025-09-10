@@ -20,5 +20,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "luke92": [
+      {
+        "repo": "luke92/Agenda",
+        "starred_at": "2025-09-10T16:41:44.323884+00:00"
+      }
+    ],
+    "cathoderay": [
+      {
+        "repo": "cathoderay/algo-engine",
+        "starred_at": "2025-09-10T16:41:44.323884+00:00"
+      }
+    ],
+    "beirigo": [
+      {
+        "repo": "beirigo/.emacs.d",
+        "starred_at": "2025-09-10T16:41:44.323884+00:00"
+      }
+    ],
+    "jcode": [
+      {
+        "repo": "jcode/www",
+        "starred_at": "2025-09-10T16:41:44.323884+00:00"
+      }
+    ],
+    "amritr31": [
+      {
+        "repo": "amritr31/Calendar-Application-for-Communication-Tracking",
+        "starred_at": "2025-09-10T16:41:44.323884+00:00"
+      }
+    ],
+    "DYUTIMAN03": [
+      {
+        "repo": "DYUTIMAN03/CommentIQ_Intelligent_Comment_Analysis_System",
+        "starred_at": "2025-09-10T16:41:44.323884+00:00"
+      }
+    ],
+    "ThaddS500": [
+      {
+        "repo": "ThaddS500/ThaddS500",
+        "starred_at": "2025-09-10T16:41:44.323884+00:00"
+      }
+    ],
+    "iarata": [
+      {
+        "repo": "iarata/02456-kan-ntk-project",
+        "starred_at": "2025-09-10T16:41:44.323884+00:00"
+      }
+    ],
+    "renanyoy": [
+      {
+        "repo": "renanyoy/MonkVG-Sharp",
+        "starred_at": "2025-09-10T16:41:44.323884+00:00"
+      }
+    ],
+    "FlaBBB": [
+      {
+        "repo": "FlaBBB/C",
+        "starred_at": "2025-09-10T16:41:44.323884+00:00"
+      }
+    ]
   }
 }
