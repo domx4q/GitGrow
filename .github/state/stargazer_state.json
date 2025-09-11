@@ -22,6 +22,61 @@
       "last_unbalanced_attempt": "2025-09-11T05:31:05.118609+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "DanBilic": [
+      {
+        "repo": "DanBilic/algo_ds_js",
+        "starred_at": "2025-09-11T08:40:43.556602+00:00"
+      }
+    ],
+    "meghapsimatrix": [
+      {
+        "repo": "meghapsimatrix/cobalt_presentation",
+        "starred_at": "2025-09-11T08:40:43.556602+00:00"
+      }
+    ],
+    "cakuki": [
+      {
+        "repo": "cakuki/ckk.im",
+        "starred_at": "2025-09-11T08:40:43.556602+00:00"
+      }
+    ],
+    "dashjay": [
+      {
+        "repo": "dashjay/bedtime-story",
+        "starred_at": "2025-09-11T08:40:43.556602+00:00"
+      }
+    ],
+    "kathirvalavan": [
+      {
+        "repo": "kathirvalavan/active_record_decorator",
+        "starred_at": "2025-09-11T08:40:43.556602+00:00"
+      }
+    ],
+    "Jamsanz": [
+      {
+        "repo": "Jamsanz/amazon-clone",
+        "starred_at": "2025-09-11T08:40:43.556602+00:00"
+      }
+    ],
+    "YuriDDS": [
+      {
+        "repo": "YuriDDS/blank-app",
+        "starred_at": "2025-09-11T08:40:43.556602+00:00"
+      }
+    ],
+    "Ikramkhemir": [
+      {
+        "repo": "Ikramkhemir/projet1",
+        "starred_at": "2025-09-11T08:40:43.556602+00:00"
+      }
+    ],
+    "Eremey-fd": [
+      {
+        "repo": "Eremey-fd/Github",
+        "starred_at": "2025-09-11T08:40:43.556602+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
