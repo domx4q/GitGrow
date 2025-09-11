@@ -20,5 +20,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "leandrocunha526": [
+      {
+        "repo": "leandrocunha526/challenge-amigo-secreto",
+        "starred_at": "2025-09-11T16:38:35.824709+00:00"
+      }
+    ],
+    "Bindeep": [
+      {
+        "repo": "Bindeep/bmi-calculator",
+        "starred_at": "2025-09-11T16:38:35.824709+00:00"
+      }
+    ],
+    "joydance": [
+      {
+        "repo": "joydance/HXmarinAndroid",
+        "starred_at": "2025-09-11T16:38:35.824709+00:00"
+      }
+    ],
+    "Shabukc": [
+      {
+        "repo": "Shabukc/databot",
+        "starred_at": "2025-09-11T16:38:35.824709+00:00"
+      }
+    ],
+    "bwl": [
+      {
+        "repo": "bwl/.emacs.d",
+        "starred_at": "2025-09-11T16:38:35.824709+00:00"
+      }
+    ],
+    "camposja": [
+      {
+        "repo": "camposja/Baker",
+        "starred_at": "2025-09-11T16:38:35.824709+00:00"
+      }
+    ],
+    "ToogoAnalyst": [
+      {
+        "repo": "ToogoAnalyst/toogo",
+        "starred_at": "2025-09-11T16:38:35.824709+00:00"
+      }
+    ],
+    "smorenodp": [
+      {
+        "repo": "smorenodp/nomadinspect",
+        "starred_at": "2025-09-11T16:38:35.824709+00:00"
+      }
+    ],
+    "inoh": [
+      {
+        "repo": "inoh/active_model_serializers_demo",
+        "starred_at": "2025-09-11T16:38:35.824709+00:00"
+      }
+    ],
+    "thenaserov": [
+      {
+        "repo": "thenaserov/apache2-site-update-tool",
+        "starred_at": "2025-09-11T16:38:35.824709+00:00"
+      }
+    ]
   }
 }
