@@ -22,6 +22,61 @@
       "last_unbalanced_attempt": "2025-09-12T05:31:09.897440+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "JawherMarweni": [
+      {
+        "repo": "JawherMarweni/Random-NFT-with-types-Proofs-API",
+        "starred_at": "2025-09-12T08:40:18.888225+00:00"
+      }
+    ],
+    "Mounir-abaddah": [
+      {
+        "repo": "Mounir-abaddah/crud_prisma",
+        "starred_at": "2025-09-12T08:40:18.888225+00:00"
+      }
+    ],
+    "bertugfahriozer": [
+      {
+        "repo": "bertugfahriozer/chat-aggregator",
+        "starred_at": "2025-09-12T08:40:18.888225+00:00"
+      }
+    ],
+    "kwasi-OT": [
+      {
+        "repo": "kwasi-OT/audiophile-ecommerce",
+        "starred_at": "2025-09-12T08:40:18.888225+00:00"
+      }
+    ],
+    "worldofgeese": [
+      {
+        "repo": "worldofgeese/BlueMicro_Builder",
+        "starred_at": "2025-09-12T08:40:18.888225+00:00"
+      }
+    ],
+    "Katana003": [
+      {
+        "repo": "Katana003/A-Drag-and-drop-game",
+        "starred_at": "2025-09-12T08:40:18.888225+00:00"
+      }
+    ],
+    "Pius-Donkor": [
+      {
+        "repo": "Pius-Donkor/bankist-application-1",
+        "starred_at": "2025-09-12T08:40:18.888225+00:00"
+      }
+    ],
+    "lilrebel17": [
+      {
+        "repo": "lilrebel17/Always_Tip",
+        "starred_at": "2025-09-12T08:40:18.888225+00:00"
+      }
+    ],
+    "Juanqu261": [
+      {
+        "repo": "Juanqu261/financial-performance",
+        "starred_at": "2025-09-12T08:40:18.888225+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
