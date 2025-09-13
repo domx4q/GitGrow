@@ -18,59 +18,7 @@
       "starred_by": [
         "domx4q/astroProject"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-13T11:23:28.541467+00:00"
+      "starred_back": []
     }
-  },
-  "growth_starred": {
-    "jeafreezy": [
-      {
-        "repo": "jeafreezy/Africa-GeoConvo-Podcast-Web",
-        "starred_at": "2025-09-13T08:36:14.676612+00:00"
-      }
-    ],
-    "K-Musty": [
-      {
-        "repo": "K-Musty/100-days_of_code",
-        "starred_at": "2025-09-13T08:36:14.676612+00:00"
-      }
-    ],
-    "Here21": [
-      {
-        "repo": "Here21/CHO_Tool_App",
-        "starred_at": "2025-09-13T08:36:14.676612+00:00"
-      }
-    ],
-    "franciscorode": [
-      {
-        "repo": "franciscorode/data-viewer",
-        "starred_at": "2025-09-13T08:36:14.676612+00:00"
-      }
-    ],
-    "LUCASDNORONHA": [
-      {
-        "repo": "LUCASDNORONHA/API_Gemini",
-        "starred_at": "2025-09-13T08:36:14.676612+00:00"
-      }
-    ],
-    "dncmn": [
-      {
-        "repo": "dncmn/go-common_bilibi",
-        "starred_at": "2025-09-13T08:36:14.676612+00:00"
-      }
-    ],
-    "mcclanahanmp": [
-      {
-        "repo": "mcclanahanmp/CloudComputing",
-        "starred_at": "2025-09-13T08:36:14.676612+00:00"
-      }
-    ],
-    "GU1LHERMESILV4": [
-      {
-        "repo": "GU1LHERMESILV4/AppContatos",
-        "starred_at": "2025-09-13T08:36:14.676612+00:00"
-      }
-    ]
-  },
-  "unresponsive": {}
+  }
 }
