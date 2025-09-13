@@ -22,6 +22,55 @@
       "last_unbalanced_attempt": "2025-09-13T05:29:20.235432+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "jeafreezy": [
+      {
+        "repo": "jeafreezy/Africa-GeoConvo-Podcast-Web",
+        "starred_at": "2025-09-13T08:36:14.676612+00:00"
+      }
+    ],
+    "K-Musty": [
+      {
+        "repo": "K-Musty/100-days_of_code",
+        "starred_at": "2025-09-13T08:36:14.676612+00:00"
+      }
+    ],
+    "Here21": [
+      {
+        "repo": "Here21/CHO_Tool_App",
+        "starred_at": "2025-09-13T08:36:14.676612+00:00"
+      }
+    ],
+    "franciscorode": [
+      {
+        "repo": "franciscorode/data-viewer",
+        "starred_at": "2025-09-13T08:36:14.676612+00:00"
+      }
+    ],
+    "LUCASDNORONHA": [
+      {
+        "repo": "LUCASDNORONHA/API_Gemini",
+        "starred_at": "2025-09-13T08:36:14.676612+00:00"
+      }
+    ],
+    "dncmn": [
+      {
+        "repo": "dncmn/go-common_bilibi",
+        "starred_at": "2025-09-13T08:36:14.676612+00:00"
+      }
+    ],
+    "mcclanahanmp": [
+      {
+        "repo": "mcclanahanmp/CloudComputing",
+        "starred_at": "2025-09-13T08:36:14.676612+00:00"
+      }
+    ],
+    "GU1LHERMESILV4": [
+      {
+        "repo": "GU1LHERMESILV4/AppContatos",
+        "starred_at": "2025-09-13T08:36:14.676612+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
