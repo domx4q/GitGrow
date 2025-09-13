@@ -20,5 +20,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "ahmedshoiab": [
+      {
+        "repo": "ahmedshoiab/AI-Support-Agent",
+        "starred_at": "2025-09-13T16:35:17.979050+00:00"
+      }
+    ],
+    "brkn": [
+      {
+        "repo": "brkn/adonis-bull-board-adapter",
+        "starred_at": "2025-09-13T16:35:17.979050+00:00"
+      }
+    ],
+    "bjornl": [
+      {
+        "repo": "bjornl/atomic",
+        "starred_at": "2025-09-13T16:35:17.979050+00:00"
+      }
+    ],
+    "DanSam5K": [
+      {
+        "repo": "DanSam5K/42-Cursus",
+        "starred_at": "2025-09-13T16:35:17.979050+00:00"
+      }
+    ],
+    "moshfiqrony": [
+      {
+        "repo": "moshfiqrony/AirlineTicketReservationMRTeam",
+        "starred_at": "2025-09-13T16:35:17.979050+00:00"
+      }
+    ],
+    "atulmy": [
+      {
+        "repo": "atulmy/crate",
+        "starred_at": "2025-09-13T16:35:17.979050+00:00"
+      }
+    ],
+    "DhruvMahalwar": [
+      {
+        "repo": "DhruvMahalwar/CampGrounds",
+        "starred_at": "2025-09-13T16:35:17.979050+00:00"
+      }
+    ],
+    "nodidala": [
+      {
+        "repo": "nodidala/echarts-demo",
+        "starred_at": "2025-09-13T16:35:17.979050+00:00"
+      }
+    ],
+    "NeryMatheus": [
+      {
+        "repo": "NeryMatheus/api-compra-spring-boot",
+        "starred_at": "2025-09-13T16:35:17.979050+00:00"
+      }
+    ]
   }
 }
